@@ -13,4 +13,4 @@
 
 ## 个人博客
 1. [Jenkins](https://blog.csdn.net/davis_dxs/article/category/8087007){:target="_blank"}
-2. <https://blog.csdn.net/davis_dxs/article/category/8087007>{:target="_blank"}
+2. ![baidu](https://blog.csdn.net/davis_dxs/article/category/8087007 "百度logo")
