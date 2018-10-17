@@ -1,4 +1,4 @@
-# 个人技能指南 :trophy:
+# :trophy: 个人技能指南 
 
 > 创作意图： 希望通过完善此技能树，能够静下心、沉淀些许。<br>
 > 内容概括： 本人对 Java、大数据、运维、前端 都有些涉略，所以主要内容就是这些方向。
@@ -17,7 +17,7 @@
 
 
 ## 联系方式
-:mailbox: : GitMafia@gmail.com 
-<br>
-:telephone:  :  17712078858  <br>
+:mailbox: : GitMafia@gmail.com <br>
+:QQ: : 2554557545 <br>
+:交流群: 878305246
 
