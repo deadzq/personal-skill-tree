@@ -16,7 +16,7 @@
 1. [Jenkins](https://blog.csdn.net/davis_dxs/article/category/8087007)
 
 
-## 联系方式
+## 技术交流
 :neckbeard: 2554557545  &nbsp;&nbsp;&nbsp;  :feet: 878305246 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;   :point_left:
 
 
