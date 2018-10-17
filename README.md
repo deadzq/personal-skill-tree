@@ -3,7 +3,7 @@
 > 创作意图： 希望通过完善此技能树，能够静下心、沉淀些许。<br>
 > 内容概括： 本人对 Java、大数据、运维、前端 都有些涉略，所以主要内容就是这些方向。
 
-## 个人分享资源列表
+## 个人分享资源列表 :triangular_flag_on_post:
 1. [运维](https://pan.baidu.com/s/1edH75gJyHW0wB1PySIulrw?_blank)    密码：8nkq
 2. [Java](https://pan.baidu.com/s/1m3Yz9PRama3zXvSvkAlCJA)    密码：kn60
 3. [Python](https://pan.baidu.com/s/1Y5vwqpSn-86fevjn0Rdhsg)  密码：7yux
