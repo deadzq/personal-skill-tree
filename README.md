@@ -11,13 +11,13 @@
 4. [大数据](https://pan.baidu.com/s/1zU_i1W8rH-ZeAErNxIT-gQ)  密码：j5zf              
 5. [前端](https://pan.baidu.com/s/1xM9pe13d7ssXEJpQjAYx0w)    密码：oxhy               
 
-## 个人博客 :book:
+## 个人博客 
 :book:
 1. [Jenkins](https://blog.csdn.net/davis_dxs/article/category/8087007)
 
 
 ## 联系方式
-:mailbox: : GitMafia@gmail.com   :tired_face: :2554557545:      :point_left:
+:mailbox: : GitMafia@gmail.com &nbsp;&nbsp;&nbsp;  :tired_face: :2554557545:  &nbsp;&nbsp;&nbsp;    :point_left:
 
 
 
