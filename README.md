@@ -17,7 +17,7 @@
 
 
 ## 联系方式
-:mailbox: : GitMafia@gmail.com <br>
-:calling: :  17712078858  <br>
-:iphone:  :  17712078858  <br>
+:mailbox: : GitMafia@gmail.com 
+<br><br>
+:telephone:  :  17712078858  <br>
 
