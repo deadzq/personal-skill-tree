@@ -17,7 +17,7 @@
 
 
 ## 技术交流
-:neckbeard: 2554557545  &nbsp;&nbsp;&nbsp;  :feet: 878305246 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;   :point_left:
+:neckbeard: 2554557545  &nbsp;&nbsp;&nbsp;  :feet: <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=dcdd3d66762ab211689194912f87f082e1416c4a95313d48caf179871150fdd8">878305246</a> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;   :point_left:
 
 
 
