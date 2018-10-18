@@ -17,8 +17,7 @@
 
 
 ## 技术交流
-:neckbeard: <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=2554557545" target="class">QQ</a>
-  &nbsp;&nbsp;&nbsp;  :feet: <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=dcdd3d66762ab211689194912f87f082e1416c4a95313d48caf179871150fdd8">Hello World</a> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;   :point_left:
+:neckbeard: <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=651990908">651990908</a>   &nbsp;&nbsp;&nbsp;  :feet: <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=dcdd3d66762ab211689194912f87f082e1416c4a95313d48caf179871150fdd8">Hello World</a> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;   :point_left:
 
 
 
